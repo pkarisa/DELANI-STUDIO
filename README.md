@@ -1,22 +1,31 @@
+## Author
+#### Pendo Karisa
 # DELANI STUDIO
 #### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This project is a web application for Delani studio that shows details about the services it offers,it has information about the studio, a portfolio section and a form that enables users to communicate their concern with the business through email and follow ups are done.
+
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+*Open your Terminal by the following combination of keys Ctrl + Alt + T
+*git clone https://github.com/pkarisa/Delani_Studio
+*Change to the directory you cloned the project to.
+*Run Code . or Atom . depending on the editor your choice.
+
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+*The site is not responsive enough for some devices.
+*mail chimp API does not function properly.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+*HTML5
+*CSS
+*Bootstrap
+*jQuery
+*markdown
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you have any question or contributions, please email me at [fkarisa@gmail.com]
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} 
+**MIT License:
+*Copyright (c) 2022 Pendo Karisa
   
