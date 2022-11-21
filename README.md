@@ -9,20 +9,28 @@ This project is a web application for Delani studio that shows details about the
 ## Setup/Installation Requirements
 
 *Open your Terminal by the following combination of keys Ctrl + Alt + T
+
 *git clone https://github.com/pkarisa/Delani_Studio
+
 *Change to the directory you cloned the project to.
+
 *Run Code . or Atom . depending on the editor your choice.
 
 ## Known Bugs
 *The site is not responsive enough for some devices.
+
 *mail chimp API does not function properly.
 
 
 ## Technologies Used
 *HTML5
+
 *CSS
+
 *Bootstrap
+
 *jQuery
+
 *markdown
 
 ## Support and contact details
