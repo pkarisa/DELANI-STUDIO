@@ -31,7 +31,7 @@ This project is a web application for Delani studio that shows details about the
 
 *jQuery
 
-*markdown
+*Markdown
 
 ## Support and contact details
 If you have any question or contributions, please email me at [fkarisa@gmail.com]
