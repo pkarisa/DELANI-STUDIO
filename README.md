@@ -10,11 +10,11 @@ This project is a web application for Delani studio that shows details about the
 
 *Open your Terminal by the following combination of keys Ctrl + Alt + T
 
-*git clone https://github.com/pkarisa/Delani_Studio
+*git clone https://github.com/pkarisa/DELANI-STUDIO
 
 *Change to the directory you cloned the project to.
 
-*Run Code . or Atom . depending on the editor your choice.
+*Run Code . or Atom . depending on the editors choice.
 
 ## Known Bugs
 *The site is not responsive enough for some devices.
@@ -23,7 +23,7 @@ This project is a web application for Delani studio that shows details about the
 
 
 ## Technologies Used
-*HTML5
+*HTML
 
 *CSS
 
@@ -31,7 +31,7 @@ This project is a web application for Delani studio that shows details about the
 
 *jQuery
 
-*markdown
+*Markdown
 
 ## Support and contact details
 If you have any question or contributions, please email me at [fkarisa@gmail.com]
