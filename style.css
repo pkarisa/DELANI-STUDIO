@@ -1,122 +1,53 @@
-body{
-  margin: 0;
-  padding:25px 50px 75px 50px;
-  border: 30px;
+#home{
 
-}
-.welcome{
-  background-image: url('assets/backgrounds/h_img.jpg');
+  background-image: url("images/backgrounds/h_image.jpg");
+
   background-repeat: no-repeat;
-  background-size: 100% 100%;
-  height: 818px;
-  text-align: center;
-  margin: 0;
-  padding: 0;
 
-}
-.welcometext{
-  padding-top: 300px;
-  padding-right: 100px; 
-  color: white;
-  font-size: large;
-  line-height: 30px;
-}
-.mclick{
-  padding-top: 170px;
-}
-.AboutUs{
-  text-align: center;
-  line-height: 30px;
-}
+  background-size: cover;
 
-.services{
-  background-image: url(assets/backgrounds/s_image.jpg);
-  background-size: 100% 100%;  
-  background-repeat: no-repeat;  
-  text-align: center;
-  padding-top: 80px;
-  color: white;
-  height: fit-content;
-  padding-bottom: 50px;
-}
-.portfoliohead{
-  text-align: center;
-  
-}
-.portfolio{
-  display: flex;
- justify-content: space-evenly;
-}
-.col-md-4{
-  padding: 100px;
-}
-.container{
-  margin: 10px;
-  padding: 10px;
+  background-position: center;
 
 }
 
-.container img{
- max-width: 100%;
- max-height: 100%;
-  
+#services{
+
+  background-image: url("images/backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
-.contact{
-  background-image: url(assets/backgrounds/c_image.jpg);
-  background-size: 100% 100%;
-  text-align: center;
-  color: white;
-  height: 100vh;
- 
-}
-.contat_us{
-  margin-top: 0;
-  border-top: 0;
-  padding-top: 0;
-}
-.cnt_btn{
-  background-color: transparent;
-}
+#contact-us{
 
-#cnt_email{
-  height: 40vh;
-  width: 700px; 
-  background: transparent;
-  padding-top: 2px;
-  text-align: start;
-}
-input::placeholder{
-  color: white;
-}
+  background-image: url("images/backgrounds/c_image.jpg");
 
-.portfolio h2{
-text-align: center;
-font-family: 'Gabriela', serif;
-font-size: 1.5em;
-}
-.col-md-4 img{
-  max-width: 100%;
-  max-height: 100%;
-  align-items: center;
-  padding-left: 25%;
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  background-position: center;
 
 }
-.portfolio{
-  align-items: center;
-}
-.whatwedo{
-  text-align: center;
-  background-position: center center;
-  font-family: 'quattrocento', serif;
-  padding: 40px;
+
+.socials{
+
+  font-size: xx-small;
+
 }
 
+#submitButton{
 
-.socialIcons{
-  text-align: center;
-  padding-top: 50px;
+  text-decoration: none;
 }
-.footer{
-  text-align: center;
+
+#sign-out{
+
+  font-size: small;
+
+  font-weight: bold;
 }
+#copyright{
+  font-size: xx-small;
+}
+
