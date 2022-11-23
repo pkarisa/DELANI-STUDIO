@@ -14,7 +14,7 @@ This project is a web application for Delani studio that shows details about the
 
 *Change to the directory you cloned the project to.
 
-*Run Code . or Atom . depending on the editor your choice.
+*Run Code . or Atom . depending on the editors choice.
 
 ## Known Bugs
 *The site is not responsive enough for some devices.
