@@ -1,3 +1,7 @@
+@import url('https://fonts.google.com/specimen/Gabriela?query=gabri');
+html{
+  scroll-behavior: smooth;
+}
 #home{
 
   background-image: url("images/backgrounds/h_image.jpg");
