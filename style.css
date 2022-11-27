@@ -69,5 +69,18 @@ h2{
   font-family:'Gabriela', serif;
 }
 #WHAT WE DO{
-  background-position: center;
+  text-align: center;
+  background-position: center center;
+  font-family: 'quattrocento', serif;
+  padding: 40px;
 } 
+
+.description{
+  display: none;
+}
+.workImages{
+  display: block;
+} 
+.workImages:hover, .description:hover {
+  cursor: pointer;
+}
