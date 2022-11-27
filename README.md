@@ -10,7 +10,7 @@ This project is a web application for Delani studio that shows details about the
 
 *Open your Terminal by the following combination of keys Ctrl + Alt + T
 
-*git clone https://github.com/pkarisa/DELANI-STUDIO
+*git clone https://pkarisa.github.io/DELANI-STUDIO/
 
 *Change to the directory you cloned the project to.
 
