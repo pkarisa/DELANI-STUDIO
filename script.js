@@ -6,32 +6,51 @@ $("document").ready(function(){
             $(target).prop("title",titlename);
         }
     })
+    /* ADDS A FTOGGLE FUNCTION BETWEEN THE WWD IMAGES AND THE DESCRIPTION */
+    $(".kazi").click(function (e) {
+
+        const clicked = e.target;
+
+        if (clicked.matches("img")) {
+
+            let narration = e.target.previousElementSibling;
+
+            $(clicked).toggle()
+            $(narration).toggle()
+
+        }
+
+        else if (clicked.matches("h6") || clicked.matches("small")) {
+
+            let narration = e.target.parentElement.nextElementSibling;
+
+            $(clicked.parentElement).toggle()
+            $(narration).toggle()
+        }
+
+    });
+
 });
 
-$(document).ready(function() {
 
-    $("#design-image").click(function(){
+  $('.btn').click(function () {
 
-      $("#design").toggle();
+    var Name = $('#your-name').val();
 
-      $(".hide-design-image").toggle();
+    var Email = $('#email').val();
 
-    })
+    var Message = $('#comment');
 
-     $("#development-image").click(function(){
+    var key ='https://formspree.io/f/myyvvqqj';
 
-      $("#development").toggle();
+    if (Name == '' || Email == '' || Message == '') {
 
-      $(".hide-development-image").toggle();
+        alert('Please make sure you have filled in the form correctly!');
 
-    })
+    } else {
 
-     $("#product-image").click(function(){
+        alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
 
-      $("#product").toggle();
+    }
 
-      $(".hide-product-image").toggle();
-
-    })
-
-  })
+});
